@@ -1,0 +1,108 @@
+Cutoff: 8 hours, RMST: 7.536609649658203 hours, ATE: 0.359713077545166
+Cutoff: 12 hours, RMST: 10.907242774963379 hours, ATE: 0.4569687843322754
+Cutoff: 16 hours, RMST: 14.038015365600586 hours, ATE: 0.5715837478637695
+Cutoff: 20 hours, RMST: 16.8769588470459 hours, ATE: 0.7246677875518799
+Cutoff: 24 hours, RMST: 19.305055618286133 hours, ATE: 0.9202547073364258
+
+///////////////////////
+
+Random Patient 1, Patient Number 25746
+tau: 8, ATE: 0.14393329620361328
+tau: 12, ATE: 0.36011219024658203
+tau: 16, ATE: 0.6683931350708008
+tau: 20, ATE: 1.0558204650878906
+tau: 24, ATE: 1.5242595672607422
+Estimated survival time for patient
+With treatment: 51.04964065551758 hours.
+Without treatment: 37.64082336425781 hours.
+
+Random Patient 2, Patient Number 25249
+tau: 8, ATE: 0.16461563110351562
+tau: 12, ATE: 0.3996095657348633
+tau: 16, ATE: 0.7246322631835938
+tau: 20, ATE: 1.1358718872070312
+tau: 24, ATE: 1.6272773742675781
+Estimated survival time for patient
+With treatment: 42.81847381591797 hours.
+Without treatment: 33.21287536621094 hours.
+
+Random Patient 3, Patient Number 2214
+tau: 8, ATE: 0.09875869750976562
+tau: 12, ATE: 0.24545955657958984
+tau: 16, ATE: 0.45635509490966797
+tau: 20, ATE: 0.6567153930664062
+tau: 24, ATE: 0.6567153930664062
+Estimated survival time for patient
+With treatment: 17.83370018005371 hours.
+Without treatment: 17.176984786987305 hours.
+
+Random Patient 4, Patient Number 6465
+tau: 8, ATE: 0.10124969482421875
+tau: 12, ATE: 0.2569446563720703
+tau: 16, ATE: 0.47370147705078125
+tau: 20, ATE: 0.7611732482910156
+tau: 24, ATE: 1.1248703002929688
+Estimated survival time for patient
+With treatment: 71.47813415527344 hours.
+Without treatment: 54.41664505004883 hours.
+
+Random Patient 5, Patient Number 26383
+tau: 8, ATE: 0.3133964538574219
+tau: 12, ATE: 0.6807765960693359
+tau: 16, ATE: 1.143362045288086
+tau: 20, ATE: 1.6711540222167969
+tau: 24, ATE: 2.2416372299194336
+Estimated survival time for patient
+With treatment: 19.427345275878906 hours.
+Without treatment: 16.744279861450195 hours.
+
+Random Patient 6, Patient Number 17566
+tau: 8, ATE: 0.1232748031616211
+tau: 12, ATE: 0.2998933792114258
+tau: 16, ATE: 0.5577611923217773
+tau: 20, ATE: 0.8907356262207031
+tau: 24, ATE: 1.2947845458984375
+Estimated survival time for patient
+With treatment: 21.539731979370117 hours.
+Without treatment: 20.244945526123047 hours.
+
+Random Patient 7, Patient Number 28248
+tau: 8, ATE: 0.07266759872436523
+tau: 12, ATE: 0.17347431182861328
+tau: 16, ATE: 0.3228578567504883
+tau: 20, ATE: 0.5223846435546875
+tau: 24, ATE: 0.7839946746826172
+Estimated survival time for patient
+With treatment: 26.86002540588379 hours.
+Without treatment: 25.670133590698242 hours.
+
+Random Patient 8, Patient Number 28571
+tau: 8, ATE: 0.24983501434326172
+tau: 12, ATE: 0.5500078201293945
+tau: 16, ATE: 0.9457378387451172
+tau: 20, ATE: 1.4298906326293945
+tau: 24, ATE: 1.982461929321289
+Estimated survival time for patient
+With treatment: 20.28356170654297 hours.
+Without treatment: 18.154560089111328 hours.
+
+Random Patient 9, Patient Number 10700
+tau: 8, ATE: 0.2678508758544922
+tau: 12, ATE: 0.6499881744384766
+tau: 16, ATE: 1.1524553298950195
+tau: 20, ATE: 1.747603416442871
+tau: 24, ATE: 2.3995361328125
+Estimated survival time for patient
+With treatment: 30.13558006286621 hours.
+Without treatment: 22.357072830200195 hours.
+
+Random Patient 10, Patient Number 10991
+tau: 8, ATE: 0.10181570053100586
+tau: 12, ATE: 0.26366233825683594
+tau: 16, ATE: 0.48941898345947266
+tau: 20, ATE: 0.7786369323730469
+tau: 24, ATE: 1.1379680633544922
+Estimated survival time for patient
+With treatment: 24.39470672607422 hours.
+Without treatment: 22.94829559326172 hours.
+

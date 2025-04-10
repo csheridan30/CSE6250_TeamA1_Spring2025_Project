@@ -1,0 +1,155 @@
+Fold 1/5
+Epoch 1:
+Train Loss: 0.2716, Train Mean Absolute Error: 1.7828, Time: 144.69 sec
+Val Loss: 0.4173, Val Mean Absolute Error: 2.1017
+Epoch 2:
+Train Loss: 0.3463, Train Mean Absolute Error: 2.1883, Time: 141.40 sec
+Val Loss: 0.3649, Val Mean Absolute Error: 2.2171
+Epoch 3:
+Train Loss: 0.3128, Train Mean Absolute Error: 2.2275, Time: 140.75 sec
+Val Loss: 0.3418, Val Mean Absolute Error: 2.2499
+Epoch 4:
+Train Loss: 0.2631, Train Mean Absolute Error: 2.2684, Time: 139.08 sec
+Val Loss: 0.3304, Val Mean Absolute Error: 2.2791
+Epoch 5:
+Train Loss: 0.3357, Train Mean Absolute Error: 2.2850, Time: 140.77 sec
+Val Loss: 0.3415, Val Mean Absolute Error: 2.2963
+Epoch 6:
+Train Loss: 0.2892, Train Mean Absolute Error: 2.3026, Time: 141.46 sec
+Val Loss: 0.3494, Val Mean Absolute Error: 2.3102
+Epoch 7:
+Train Loss: 0.3330, Train Mean Absolute Error: 2.3120, Time: 139.71 sec
+Val Loss: 0.3422, Val Mean Absolute Error: 2.3232
+Epoch 8:
+Train Loss: 0.2547, Train Mean Absolute Error: 2.3310, Time: 141.24 sec
+Val Loss: 0.3495, Val Mean Absolute Error: 2.3339
+Epoch 9:
+Train Loss: 0.3291, Train Mean Absolute Error: 2.3382, Time: 140.54 sec
+Val Loss: 0.3421, Val Mean Absolute Error: 2.3448
+Epoch 10:
+Train Loss: 0.2735, Train Mean Absolute Error: 2.3491, Time: 140.57 sec
+Val Loss: 0.3444, Val Mean Absolute Error: 2.3556
+Fold 2/5
+Epoch 1:
+Train Loss: 0.4084, Train Mean Absolute Error: 1.8003, Time: 146.84 sec
+Val Loss: 0.4432, Val Mean Absolute Error: 2.0185
+Epoch 2:
+Train Loss: 0.3536, Train Mean Absolute Error: 2.0402, Time: 144.69 sec
+Val Loss: 0.3715, Val Mean Absolute Error: 2.0829
+Epoch 3:
+Train Loss: 0.2848, Train Mean Absolute Error: 2.0932, Time: 143.91 sec
+Val Loss: 0.3368, Val Mean Absolute Error: 2.1005
+Epoch 4:
+Train Loss: 0.3098, Train Mean Absolute Error: 2.1089, Time: 141.43 sec
+Val Loss: 0.3328, Val Mean Absolute Error: 2.1144
+Epoch 5:
+Train Loss: 0.3130, Train Mean Absolute Error: 2.1131, Time: 140.15 sec
+Val Loss: 0.3755, Val Mean Absolute Error: 2.1146
+Epoch 6:
+Train Loss: 0.3394, Train Mean Absolute Error: 2.1156, Time: 140.17 sec
+Val Loss: 0.3691, Val Mean Absolute Error: 2.1318
+Epoch 7:
+Train Loss: 0.0951, Train Mean Absolute Error: 2.1444, Time: 140.09 sec
+Val Loss: 0.3740, Val Mean Absolute Error: 2.1527
+Epoch 8:
+Train Loss: 0.3533, Train Mean Absolute Error: 2.1602, Time: 139.72 sec
+Val Loss: 0.3928, Val Mean Absolute Error: 2.1689
+Epoch 9:
+Train Loss: 0.3212, Train Mean Absolute Error: 2.1791, Time: 139.25 sec
+Val Loss: 0.3672, Val Mean Absolute Error: 2.1933
+Epoch 10:
+Train Loss: 0.0392, Train Mean Absolute Error: 2.2052, Time: 140.42 sec
+Val Loss: 0.3858, Val Mean Absolute Error: 2.2125
+Fold 3/5
+Epoch 1:
+Train Loss: 0.4130, Train Mean Absolute Error: 1.8530, Time: 147.03 sec
+Val Loss: 0.3776, Val Mean Absolute Error: 2.2166
+Epoch 2:
+Train Loss: 0.3535, Train Mean Absolute Error: 2.3094, Time: 143.05 sec
+Val Loss: 0.3609, Val Mean Absolute Error: 2.3482
+Epoch 3:
+Train Loss: 0.3700, Train Mean Absolute Error: 2.3673, Time: 144.91 sec
+Val Loss: 0.3601, Val Mean Absolute Error: 2.3755
+Epoch 4:
+Train Loss: 0.3252, Train Mean Absolute Error: 2.3827, Time: 141.59 sec
+Val Loss: 0.3505, Val Mean Absolute Error: 2.4036
+Epoch 5:
+Train Loss: 0.1269, Train Mean Absolute Error: 2.4141, Time: 140.53 sec
+Val Loss: 0.3409, Val Mean Absolute Error: 2.4271
+Epoch 6:
+Train Loss: 0.2354, Train Mean Absolute Error: 2.4407, Time: 140.06 sec
+Val Loss: 0.3467, Val Mean Absolute Error: 2.4506
+Epoch 7:
+Train Loss: 0.3304, Train Mean Absolute Error: 2.4593, Time: 138.91 sec
+Val Loss: 0.3380, Val Mean Absolute Error: 2.4701
+Epoch 8:
+Train Loss: 0.3110, Train Mean Absolute Error: 2.4792, Time: 138.63 sec
+Val Loss: 0.3413, Val Mean Absolute Error: 2.4905
+Epoch 9:
+Train Loss: 0.2511, Train Mean Absolute Error: 2.4968, Time: 138.87 sec
+Val Loss: 0.3556, Val Mean Absolute Error: 2.5043
+Epoch 10:
+Train Loss: 0.3183, Train Mean Absolute Error: 2.5101, Time: 140.43 sec
+Val Loss: 0.3449, Val Mean Absolute Error: 2.5149
+Fold 4/5
+Epoch 1:
+Train Loss: 0.3073, Train Mean Absolute Error: 1.8324, Time: 145.58 sec
+Val Loss: 0.4351, Val Mean Absolute Error: 2.1671
+Epoch 2:
+Train Loss: 0.3902, Train Mean Absolute Error: 2.2684, Time: 142.61 sec
+Val Loss: 0.3890, Val Mean Absolute Error: 2.2984
+Epoch 3:
+Train Loss: 0.2449, Train Mean Absolute Error: 2.3108, Time: 143.12 sec
+Val Loss: 0.3500, Val Mean Absolute Error: 2.3186
+Epoch 4:
+Train Loss: 0.3376, Train Mean Absolute Error: 2.3144, Time: 143.95 sec
+Val Loss: 0.3469, Val Mean Absolute Error: 2.3166
+Epoch 5:
+Train Loss: 0.3455, Train Mean Absolute Error: 2.3178, Time: 144.84 sec
+Val Loss: 0.3305, Val Mean Absolute Error: 2.3168
+Epoch 6:
+Train Loss: 0.3110, Train Mean Absolute Error: 2.3113, Time: 143.04 sec
+Val Loss: 0.3416, Val Mean Absolute Error: 2.3114
+Epoch 7:
+Train Loss: 0.3630, Train Mean Absolute Error: 2.3090, Time: 141.88 sec
+Val Loss: 0.3423, Val Mean Absolute Error: 2.3065
+Epoch 8:
+Train Loss: 0.3331, Train Mean Absolute Error: 2.3005, Time: 142.99 sec
+Val Loss: 0.3554, Val Mean Absolute Error: 2.2965
+Epoch 9:
+Train Loss: 0.2939, Train Mean Absolute Error: 2.2927, Time: 144.48 sec
+Val Loss: 0.3628, Val Mean Absolute Error: 2.2938
+Epoch 10:
+Train Loss: 0.3266, Train Mean Absolute Error: 2.2953, Time: 141.81 sec
+Val Loss: 0.3291, Val Mean Absolute Error: 2.2957
+Fold 5/5
+Epoch 1:
+Train Loss: 0.4010, Train Mean Absolute Error: 1.7567, Time: 147.92 sec
+Val Loss: 0.4037, Val Mean Absolute Error: 2.0517
+Epoch 2:
+Train Loss: 0.3837, Train Mean Absolute Error: 2.1062, Time: 146.28 sec
+Val Loss: 0.3592, Val Mean Absolute Error: 2.1184
+Epoch 3:
+Train Loss: 0.3578, Train Mean Absolute Error: 2.1236, Time: 145.29 sec
+Val Loss: 0.3516, Val Mean Absolute Error: 2.1254
+Epoch 4:
+Train Loss: 0.3643, Train Mean Absolute Error: 2.1282, Time: 144.95 sec
+Val Loss: 0.3727, Val Mean Absolute Error: 2.1341
+Epoch 5:
+Train Loss: 0.3437, Train Mean Absolute Error: 2.1340, Time: 159.39 sec
+Val Loss: 0.3634, Val Mean Absolute Error: 2.1396
+Epoch 6:
+Train Loss: 0.1777, Train Mean Absolute Error: 2.1427, Time: 151.10 sec
+Val Loss: 0.3755, Val Mean Absolute Error: 2.1541
+Epoch 7:
+Train Loss: 0.3203, Train Mean Absolute Error: 2.1628, Time: 141.03 sec
+Val Loss: 0.3746, Val Mean Absolute Error: 2.1758
+Epoch 8:
+Train Loss: 0.3368, Train Mean Absolute Error: 2.1895, Time: 142.04 sec
+Val Loss: 0.3546, Val Mean Absolute Error: 2.1956
+Epoch 9:
+Train Loss: 0.3452, Train Mean Absolute Error: 2.1991, Time: 142.08 sec
+Val Loss: 0.3626, Val Mean Absolute Error: 2.2061
+Epoch 10:
+Train Loss: 0.3328, Train Mean Absolute Error: 2.2110, Time: 141.53 sec
+Val Loss: 0.3598, Val Mean Absolute Error: 2.2131
