@@ -3,6 +3,8 @@ Final Project for Team A1 for GA Tech CSE 6250 Big Data For Health Spring 2025
 
 
 Please note: This code was designed in and intended for use in Google Colab.
+To run this code in Google Colab, you will need at least 8 GB worth of space in your drive.  7.21 of the 8 GB will be taken by the raw data file.
+If you wish to skip the data preprocessing step, we provide the preprocessed data for seed 28 at https://drive.google.com/drive/folders/111w-Jw_LchYf1MPTUIuVb60EPUVi53fN?usp=sharing.  This reduces the total file size to approximately 1GB.
 
 The project is stored in the following file structure:
 
