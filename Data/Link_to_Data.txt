@@ -1,2 +1,9 @@
 Data for this project is extracted from the MIMIC III Dataset using MIMIC Extract.
 The Data file can be found at: console.cloud.google.com/storage/browser/mimic_extract?invt=Abt9-A 
+The raw data file is 7.21 GB.
+
+Mimic Extract may be found at: https://github.com/MLforHealth/MIMIC_Extract
+
+
+If you wish to skip the data preprocessing step in order to save time and space, the preprocessed data for only seed 28 can be found at https://drive.google.com/drive/folders/111w-Jw_LchYf1MPTUIuVb60EPUVi53fN?usp=sharing
+Utilizing the preprocessed data will save approximately 15 minutes and reduce the storage space required for the project to approximately 1GB.
